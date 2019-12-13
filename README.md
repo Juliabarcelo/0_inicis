@@ -3,8 +3,7 @@ Crea un reprositori
 
 ## Pagines classes
 * [Pàginaclasse2GP](https://arquesm.github.io/2GP/)
-* [
-
+* [Llenguatje etiquetes] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
 ##Acttivitats
