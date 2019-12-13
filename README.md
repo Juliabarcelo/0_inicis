@@ -6,6 +6,6 @@ Crea un reprositori
 * [Llenguatje etiquetes] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 
-##Acttivitats
+## activitats
 *[2_CMYK]_(https://juliabarcelo.github.io/2CMYK/)
 * [4_maquetació](https://juliabarcelo.github.io/4_maquetaci-/)
