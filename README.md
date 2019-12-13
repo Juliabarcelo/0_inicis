@@ -5,4 +5,4 @@ Crea un reprositori
 * [Pàginaclasse2GP](https://arquesm.github.io/2GP/)
 * [Llenguatjeetiquetes]
 * [Pàginaclasse2GP](https://arquesm.github.io/2GP/)
-* [4_maquetació](
+* [4_maquetació](https://juliabarcelo.github.io/4_maquetaci-/)
