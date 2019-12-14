@@ -5,6 +5,8 @@ Crea un reprositori
 * [Pàginaclasse2GP](https://arquesm.github.io/2GP/)
 * [Llenguatje Etiqueta](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+## Manuales
+* [w3schools](https://www.w3schools.com/)
 
 
 ## activitats
