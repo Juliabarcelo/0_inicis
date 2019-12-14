@@ -13,5 +13,5 @@ Crea un reprositori
 * [5_Tarjetes](https://juliabarcelo.github.io/5_Tarjetes)
 * [7_Landinpage](https://juliabarcelo.github.io/7landingpage/)
 * [8_Gridarea-minimshop](https://juliabarcelo.github.io/8_Gridarea-minimshop/)
-
+* [7_Grid](https://juliabarcelo.github.io/7_Grid/)
 
