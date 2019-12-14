@@ -12,3 +12,4 @@ Crea un reprositori
 * [4_maquetació](https://juliabarcelo.github.io/4_maquetaci-/)
 *[1_LlocWeb](https://juliabarcelo.github.io/1_LlocWeb/)
 *[5_Tarjetes](https://juliabarcelo.github.io/5_Tarjetes/)
+*[7_Landinpage](https://juliabarcelo.github.io/7landingpage/)
