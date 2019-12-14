@@ -8,6 +8,10 @@ Crea un reprositori
 ## Manuales
 * [w3schools](https://www.w3schools.com/)
 
+## Hojas de trucos
+* [html](https://websitesetup.org/HTML5-cheat-sheet.pdf)
+* [css](https://websitesetup.org/HTML5-cheat-sheet.pdf)
+* [p5js](https://github.com/bmoren/p5js-cheat-sheet)
 
 ## activitats
 * [2_CMYK](https://juliabarcelo.github.io/2CMYK/)
