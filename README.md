@@ -21,5 +21,5 @@ Crea un reprositori
 * [7_Grid](https://juliabarcelo.github.io/7_Grid/)
 * [8_Gridarea-minimshop](https://juliabarcelo.github.io/8_Gridarea-minimshop/)
 * [examen](https://juliabarcelo.github.io/examen/)
-* [document_js]_ ( https://juliabarcelo.github.io/Dociment_js/)
+*
 * [15_menus](https://juliabarcelo.github.io/15_menus/)
