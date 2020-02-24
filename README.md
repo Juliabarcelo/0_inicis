@@ -15,6 +15,7 @@ Crea un reprositori
 
 ## activitats
 * [2_CMYK](https://juliabarcelo.github.io/2CMYK/)
+.[3_Broom](https://juliabarcelo.github.io/3_Broom/)
 * [4_maquetació](https://juliabarcelo.github.io/4_maquetaci-/)
 * [5_Tarjetes](https://juliabarcelo.github.io/5_Tarjetes)
 * [6_Landinpage](https://juliabarcelo.github.io/7landingpage)
