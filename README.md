@@ -15,12 +15,12 @@ Crea un reprositori
 
 ## activitats
 * [2_CMYK](https://juliabarcelo.github.io/2CMYK/)
-.[3_Broom](https://juliabarcelo.github.io/3_Broom/)
+* [3_Broom](https://juliabarcelo.github.io/3_Broom/)
 * [4_maquetació](https://juliabarcelo.github.io/4_maquetaci-/)
 * [5_Tarjetes](https://juliabarcelo.github.io/5_Tarjetes)
 * [6_Landinpage](https://juliabarcelo.github.io/7landingpage)
 * [7_Grid](https://juliabarcelo.github.io/7_Grid/)
 * [8_Gridarea-minimshop](https://juliabarcelo.github.io/8_Gridarea-minimshop/)
 * [examen](https://juliabarcelo.github.io/examen/)
-* [14_documentjs] (https://juliabarcelo.github.io/14_documentjs/)
+* [14_documentjs](https://juliabarcelo.github.io/14_documentjs/)
 * [15_menus](https://juliabarcelo.github.io/15_menus/)
