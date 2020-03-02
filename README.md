@@ -18,7 +18,7 @@ Crea un reprositori
 * [2_CMYK](https://juliabarcelo.github.io/2CMYK/)
 * [3_Broom](https://juliabarcelo.github.io/3_Broom/)
 * [4_maquetació](https://juliabarcelo.github.io/4_Maquetaci-_correguit/)
-* [5_Tarjetes](https://juliabarcelo.github.io/5_Tarjetes)
+* [5_Tarjetes](https://juliabarcelo.github.io/7_Tarjetes/)
 * [6_Landinpage](https://juliabarcelo.github.io/7landingpage)
 * [7_Gridmoma](https://juliabarcelo.github.io/7_GridMoma/)
 * [8_MinimalShop](https://juliabarcelo.github.io/8_Gridarea-minimshop/)
