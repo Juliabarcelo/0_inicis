@@ -23,7 +23,7 @@ Crea un reprositori
 * [7_Gridmoma](https://juliabarcelo.github.io/7_GridMoma/)
 * [8_MinimalShop](https://juliabarcelo.github.io/8_Gridarea-minimshop/)
 * [9_Transform](https://juliabarcelo.github.io/9_transform/)
-* [10_Fieldwork]()
+* [10_Fieldwork]( https://juliabarcelo.github.io/10_FieldWork/)
 * [11_examen](https://juliabarcelo.github.io/examen/)
 * [12_Aesop](https://juliabarcelo.github.io/12_Aesop/)
 * [13_js](https://juliabarcelo.github.io/13_js/)
