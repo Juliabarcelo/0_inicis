@@ -29,5 +29,5 @@ Crea un reprositori
 * [13_js](https://juliabarcelo.github.io/13_js/)
 * [14_documentjs](https://juliabarcelo.github.io/14_documentjs/)
 * [15_menus](https://juliabarcelo.github.io/15_menus/)
-* [17_sgv]()
-* [17_portfoli]( https://juliabarcelo.github.io/17_Portfol/)
+* [16_portfoli]( https://juliabarcelo.github.io/17_Portfol/)
+* [17_examen]()
