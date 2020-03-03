@@ -30,4 +30,4 @@ Crea un reprositori
 * [14_documentjs](https://juliabarcelo.github.io/14_documentjs/)
 * [15_menus](https://juliabarcelo.github.io/15_menus/)
 * [16_portfoli]( https://juliabarcelo.github.io/17_Portfol/)
-* [17_examen]()
+* [17_examen](https://juliabarcelo.github.io/examen_2/)
